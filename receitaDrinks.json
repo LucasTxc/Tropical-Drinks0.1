@@ -1,0 +1,123 @@
+{  
+    "drinks":[
+        {
+        "titulo":"Maracuja",
+        "imagem": "./../ASSETS/M1.png",
+        "ingredientes": [
+            "2 oz Cachaça",
+            "1/2 Maracuja",
+            "2 colheres de bar de Açúcar",
+            "8 cubos de gelo"]
+        }, 
+
+        {
+        "titulo":"Laranja",
+        "imagem": "./../ASSETS/L2.png",
+        "ingredientes":[ 
+            "50ml de vodka", 
+            "50ml de suco de laranja",
+             "Raspas de limão",
+             "8 cubos de gelo"]
+
+        },
+        {
+        "titulo":"Morango",
+        "imagem": "./../ASSETS/Mo3.png",
+        "ingredientes":[ 
+            "1 xícara (chá) de Morangos (picados)",
+            "1 colher (sopa) de Mel", 
+            "½ xícara (chá) de Suco de Laranja Natural",
+            "1 litro de Refrigerante de Limão"]
+        }, 
+        {
+            "titulo":"Limão",
+            "imagem": "./../ASSETS/Mo3.png",
+            "ingredientes":[ 
+                "60 ml de cahaça",
+                "1 limão", 
+                "2 colheres de bar de Açúcar"
+                ]
+            },
+        {
+            "titulo":"Abacaxi",
+            "imagem": "./../ASSETS/Mo3.png",
+            "ingredientes":[ 
+                "1 abacaxi pequeno",
+                "1 copo de suco de laranja", 
+                "1 1/2 copos de vodka",
+                "pedras de gelo",
+                "folhas de hortelã"]
+            },
+        {
+            "titulo":"Uva",
+            "imagem": "./../ASSETS/Mo3.png",
+            "ingredientes":[ 
+                "1 xícara (chá) de Morangos (picados)",
+                "1 colher (sopa) de Mel", 
+                "½ xícara (chá) de Suco de Laranja Natural",
+                "1 litro de Refrigerante de Limão"]
+            },
+        {
+            "titulo":"Sex on beach",
+            "imagem": "./../ASSETS/Mo3.png",
+            "ingredientes":[ 
+                "1 xícara (chá) de Morangos (picados)",
+                "1 colher (sopa) de Mel", 
+                "½ xícara (chá) de Suco de Laranja Natural",
+                "1 litro de Refrigerante de Limão"]
+            },
+            
+        {
+            "titulo":"Mojito",
+            "imagem": "../ASSETS/Mo3.png",
+            "ingredientes":[ 
+                "1 xícara (chá) de Morangos (picados)",
+                "1 colher (sopa) de Mel", 
+                "½ xícara (chá) de Suco de Laranja Natural",
+                "1 litro de Refrigerante de Limão"]
+            },
+        {
+            "titulo":"Pina Colada",
+            "imagem": "../ASSETS/Mo3.png",
+            "ingredientes":[ 
+                "1 xícara (chá) de Morangos (picados)",
+                "1 colher (sopa) de Mel", 
+                "½ xícara (chá) de Suco de Laranja Natural",
+                "1 litro de Refrigerante de Limão"]
+            },
+        {
+            "titulo":"Marguarita",
+            "imagem": "../ASSETS/Mo3.png",
+            "ingredientes":[ 
+                "1 xícara (chá) de Morangos (picados)",
+                "1 colher (sopa) de Mel", 
+                "½ xícara (chá) de Suco de Laranja Natural",
+                "1 litro de Refrigerante de Limão"]
+            },
+            
+        {
+            "titulo":"Aperol",
+            "imagem": "../ASSETS/Mo3.png",
+            "ingredientes":[ 
+                "1 xícara (chá) de Morangos (picados)",
+                "1 colher (sopa) de Mel", 
+                "½ xícara (chá) de Suco de Laranja Natural",
+                "1 litro de Refrigerante de Limão"]
+            },
+            
+        {
+            "titulo":"Cosmopolitan",
+            "imagem": "../ASSETS/Mo3.png",
+            "ingredientes":[ 
+                "1 xícara (chá) de Morangos (picados)",
+                "1 colher (sopa) de Mel", 
+                "½ xícara (chá) de Suco de Laranja Natural",
+                "1 litro de Refrigerante de Limão"]
+            }
+            
+    ]
+}    
+
+    
+
+

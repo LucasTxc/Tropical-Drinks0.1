@@ -1,0 +1,48 @@
+*{ margin: 0; padding: 0; box-sizing: border-box;}
+
+.hconteiner{ /*Esse é a DIV principal*/
+    width:100vh;
+    height:100vw; 
+    display: flex;
+    justify-content: center;
+    margin-left: 450px;
+    border:100px solid black;
+      
+
+}
+.tituloH1{
+    text-align: left;
+    margin-top: 50px;
+}
+.divH2{
+    text-align:right;
+    margin-top: 50px;
+}
+.spaHome{
+    border:5px solid rgba(0, 0, 0, 0.964);
+    border-radius: 25px;
+    box-shadow: 15px 13px;
+    padding: 15px 15px 15px 15px;
+    font-size: 30px;
+  background:var(--textColor);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+
+
+
+
+
+
+/*Essa são as cores para ser usados o bady*/
+
+
+/* background: rgb(131,58,180); 
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%); */
+
+
+
+
+
+
